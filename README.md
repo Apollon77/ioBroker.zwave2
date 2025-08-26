@@ -41,7 +41,7 @@ Easy usage in ioBroker was kept in mind during the whole development. For exampl
 	### __WORK IN PROGRESS__
 -->
 ### __WORK IN PROGRESS__
-IMPORTANT: This version requires at least Node.js 18 and ioBroker js-controller 6.0 or higher!
+IMPORTANT: This version requires at least Node.js 20 and ioBroker js-controller 6.0 or higher!
 * Updated dependencies
 
 ### 3.1.0 (2023-09-27)
